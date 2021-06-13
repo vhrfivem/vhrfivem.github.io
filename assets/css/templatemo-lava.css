@@ -655,7 +655,7 @@ welcome
 */
 .welcome-area {
   width: 80%;
-  height: 100vh;
+  height: 50vh;
   min-height: 500px;
   background-image: url(../images/banner-bg.png);
   background-repeat: no-repeat;
